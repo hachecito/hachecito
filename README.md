@@ -14,8 +14,7 @@
 - 🤖 AI enthusiast
 - :computer: Computer Science engineer
 - 🌱 Currently learning AI integrations
-- 👯 I’m always available to collaborate
-- ⚡ Fun fact: Love gaming
+
 
 <br/>
 
